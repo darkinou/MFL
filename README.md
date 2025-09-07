@@ -2,10 +2,10 @@
 ---
 
 > ⚠️ **Important Reminder**  
-> Always approach online information—including this repository—with a healthy dose of skepticism. Verify claims through credible sources, research, and benchmarking before accepting them as truth.
+> Always approach online information—including this repository—with a healthy dose of skepticism.
 
 > ⚠️ **System Safety Warning**  
-> Never run unfamiliar or undocumented scripts, programs, or system tweaks without fully understanding their purpose and potential impact on your device’s security, privacy, and performance.
+> Never run unfamiliar or undocumented scripts, programs, or system tweaks without fully understanding their purpose and potential impact on your device.
 
 ---
 

@@ -35,6 +35,6 @@ Here are some of the most valuable and expansive resources I’ve come across:
 - [OSSU Computer Science](https://github.com/ossu/computer-science) — A complete computer science curriculum using open resources.
 - [Open Source Alternatives](https://github.com/btw-so/open-source-alternatives) — Find open source replacements for popular software.
 - [Best Dev Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) — Must-visit sites for programmers.
-- [[Privacy Guides](https://www.privacyguides.org/en/)] — Privacy Guides.
+- [Privacy Guides](https://www.privacyguides.org/en/) — Privacy Guides.
 
 ---

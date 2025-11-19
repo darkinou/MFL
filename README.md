@@ -7,6 +7,9 @@
 > ⚠️ **System Safety Warning**  
 > Never run unfamiliar or undocumented scripts, programs, or system tweaks without fully understanding their purpose and potential impact on your device.
 
+> ⚠️ **State of MFL**  
+> This is only the base for a projet I want to create, rn it's small, and half mayde by AI to help me learn markdown formating.
+
 ---
 
 # 1. Table of Contents [↩](#table-of-contents)

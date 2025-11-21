@@ -17,6 +17,7 @@
 - [1. Table of Contents](#table-of-contents)
 - [2. Introduction](#introduction)
 - [3. Big Lists](#big-lists)
+- [4. Optimization](#optimizations)
 
 ---
 
@@ -39,5 +40,30 @@ Here are some of the most valuable and expansive resources I’ve come across:
 - [Open Source Alternatives](https://github.com/btw-so/open-source-alternatives) — Find open source replacements for popular software.
 - [Best Dev Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) — Must-visit sites for programmers.
 - [Privacy Guides](https://www.privacyguides.org/en/) — Privacy Guides.
+
+---
+
+# 4. Optimization [↩](#optimizations)
+
+Stock things aren't really optimized or even good (Windows...) so here are some tools/ressources/channels:
+
+### I/ Tools
+
+- [Winutil](https://github.com/ChrisTitusTech/winutil) — Chris Titus Tech's Windows Utility.
+- [Talon](https://github.com/ravendevteam/talon) — Simple utility to debloat Windows in 2 clicks.
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) — Remove large amounts of unwanted applications quickly.
+
+### II/ Ressources
+
+- [Gravesoft](https://gravesoft.dev/) — People making open-source and free software for Windows.
+- [Awesome Win11](https://github.com/awesome-windows11/windows11) — First help for setup, tweaks and ISO images.
+- [PC Optimization Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) — Throught guide to optimize Windows, peripherals and things around.
+
+### III/ Channels
+
+- [Khorvie Tech](https://www.youtube.com/@khorvietech)
+- [FR33THY](https://www.youtube.com/@FR33THY)
+- [Alchemy](https://www.youtube.com/@Alchemytweaks)
+- [FrameSync Labs](https://www.youtube.com/@FrameSyncLabs)
 
 ---
